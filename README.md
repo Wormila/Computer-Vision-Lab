@@ -39,7 +39,4 @@ Terminate program
 Expected outputs such as enhanced images, detected edges, segmented regions, and identified objects were obtained, confirming correct implementation.
 
 # Conclusion
-The lab experiments provided practical exposure to core Computer Vision concepts and improved understanding of image processing and analysis techniques.
-
-Conclusion – Version 2
 Through these experiments, essential Computer Vision algorithms were implemented successfully, strengthening practical skills and conceptual knowledge in visual computing.
