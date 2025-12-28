@@ -38,8 +38,8 @@ for (x, y, w, h) in faces:
 # =================================================
 
 # Load model files
-prototxt = r"C:\Users\kavit\OneDrive\Desktop\wormi\Exp 10\MobileNetSSD_deploy.prototxt"
-model = r"C:\Users\kavit\OneDrive\Desktop\wormi\Exp 10\MobileNetSSD_deploy.caffemodel"
+prototxt = r"C:\Users\Wormila\OneDrive\Desktop\wormi\Exp 10\MobileNetSSD_deploy.prototxt"
+model = r"C:\Users\Wormila\OneDrive\Desktop\wormi\Exp 10\MobileNetSSD_deploy.caffemodel"
 
 net = cv2.dnn.readNetFromCaffe(prototxt, model)
 
@@ -91,3 +91,4 @@ cv2.imshow("Deep Learning Object Detection (SSD + MobileNet)", dnn_image)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
